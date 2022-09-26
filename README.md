@@ -6,15 +6,15 @@
 
 #### Arquitectura Implementada
 
-[![Arquitectura Implementada](https://unoraya.com/demo/arquitectura.png)
+![Arquitectura Implementada](https://unoraya.com/demo/arquitectura.png)
 
 ##### Tiempo invertido en el reto 5hrs
 
 ### Solución
-[![UI](https://unoraya.com/demo/home.png)
+![UI](https://unoraya.com/demo/home.png)
 
 ### Performance
-[![UI](https://unoraya.com/demo/home.png)
+![UI](https://unoraya.com/demo/performance.png)
 
 Link demo;
 https://unoraya.com/demo/n5
