@@ -10,6 +10,12 @@
 
 ##### Tiempo invertido en el reto 5hrs
 
+### Solución
+[![UI](https://unoraya.com/demo/home.png)
+
+Link demo;
+https://unoraya.com/demo/n5/home/films
+
 ## Reto
 
 Desarrolla una aplicación web que tenga una página principal, con dos botones que permitan el cargue de un listado de los personajes de dos series o películas distintas (ejemplo: Rick and Morty y Harry Potter) en este listado se debe visualizar mínimo el nombre y la imagen del personaje.
