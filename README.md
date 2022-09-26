@@ -4,6 +4,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+[![Arquitectura Implementada](https://unoraya.com/demo/arquitectura.png)
+
 Desarrolla una aplicación web que tenga una página principal, con dos botones que permitan el cargue de un listado de los personajes de dos series o películas distintas (ejemplo: Rick and Morty y Harry Potter) en este listado se debe visualizar mínimo el nombre y la imagen del personaje.
 
 #### Requerimientos Técnicos:
