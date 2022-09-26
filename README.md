@@ -14,7 +14,11 @@
 [![UI](https://unoraya.com/demo/home.png)
 
 Link demo;
-https://unoraya.com/demo/n5/home/films
+https://unoraya.com/demo/n5
+
+Link MFs independientes:
+Films: https://unoraya.com/demo/n5/home/films/
+Series: https://unoraya.com/demo/n5/home/series/
 
 ## Reto
 
