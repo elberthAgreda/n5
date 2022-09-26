@@ -105,6 +105,8 @@ Levantar localmente todo el proyecto
 npm run start:all
 ```
 
+Puede tambien levantarlos de forma independiente dependiendo lo que necesite:
+
 Levantar el mf host
 
 ```sh
