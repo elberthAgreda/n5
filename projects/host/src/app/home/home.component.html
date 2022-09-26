@@ -1,0 +1,24 @@
+<div class="flex fullCenter menu">
+  <div
+    class="menu__item menu__item--primary"
+    (click)="navigate('./home/series')"
+  >
+    <b class="menu__link">{{ "series" | translate }}</b>
+    <span class="menu__span">{{ "characters" | translate }}</span>
+  </div>
+  <div class="menu__item menu__item--accent" (click)="navigate('./home/films')">
+    <b class="menu__link">{{ "films" | translate }}</b>
+    <span class="menu__span">{{ "characters" | translate }}</span>
+  </div>
+</div>
+<div class="flex languages">
+  <lib-button
+    (click)="changeLang('es')"
+    [data]="{ type: 'button', label: 'spanish' }"
+  ></lib-button>
+  <lib-button
+    (click)="changeLang('en')"
+    [data]="{ type: 'button', label: 'english' }"
+  ></lib-button>
+</div>
+<router-outlet></router-outlet>

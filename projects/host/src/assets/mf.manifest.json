@@ -1,0 +1,4 @@
+{
+	"series": "http://localhost:4203/remoteEntry.js",
+	"films": "http://localhost:4202/remoteEntry.js"
+}

@@ -1,0 +1,11 @@
+<div class="flex cards" *ngIf="data">
+  <div *ngFor="let item of data" class="cards__item">
+    <img
+      *ngIf="item.image"
+      class="cards__item__img"
+      [src]="item.image"
+      [alt]="item.name"
+    />
+    <h2 class="cards__item__title">{{ item.name }}</h2>
+  </div>
+</div>
