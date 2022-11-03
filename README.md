@@ -1,4 +1,4 @@
-# Microfrontends with i18n, Ds and Module Federation
+# Microfrontends with i18n, Ds, Module Federation and Scully
 
 #### _Elberth Agreda @elberthAgreda_
 
