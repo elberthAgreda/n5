@@ -1,4 +1,4 @@
-# Test App - Challenge N5
+# Microfrontends with i18n, Ds and Module Federation
 
 #### _Elberth Agreda @elberthAgreda_
 
